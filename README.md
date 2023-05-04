@@ -12,3 +12,5 @@ The development of a promotional campaign for sustainable tourism in the Philipp
 Frameworks and Tools /* Angular, Angular Animations, Angular CLI, Angular Material, Router, RXJS */
 
 Components that was used /* app, app.component.ts, app.module.ts, app.component.html, app.component.css, animation.directives.ts, animation.service.ts */
+
+- Pineda, Antonella
